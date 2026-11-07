@@ -5,7 +5,7 @@ Am Software engineer, 2+ years fighting with bugs :)
 [![Portfolio](https://img.shields.io/badge/selahadin.dev-000?style=for-the-badge&logo=vercel&logoColor=white)](https://selahadin.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selahadin-hamid-97ab3128a/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selahadinhamid26@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nither_nor)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/selahadin_h)
 
 </div>
 
