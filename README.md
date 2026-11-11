@@ -1,6 +1,6 @@
 <div align="center">
 
-Am Software engineer, 2+ years fighting with bugs :)
+Am Software engineer, 2 + 1 years fighting with bugs :)
 
 [![Portfolio](https://img.shields.io/badge/selahadin.dev-000?style=for-the-badge&logo=vercel&logoColor=white)](https://selahadin.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selahadin-hamid-97ab3128a/)
